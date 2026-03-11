@@ -33,6 +33,6 @@ This project demonstrates an end-to-end CI/CD pipeline that provisions AWS infra
 2. Run pipeline
 3. Access application via EC2 public IP
 
-## 📸 Screenshots (Optional)
+## 
 - GitLab pipeline success
 - Nginx running in browser
